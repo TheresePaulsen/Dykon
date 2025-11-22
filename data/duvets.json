@@ -1,0 +1,273 @@
+[
+  {
+    "id": "4025000",
+    "sku": "FD-ANEMONE",
+    "slug": "flora-danica-anemone",
+
+    "brand": "Flora Danica",
+    "name": "Anemone",
+    "images": ["/anemone.jpeg"],
+
+    "allergyFriendly": true,
+    "certifications": ["STANDARD 100 by OEKO-TEX"],
+    "fillings": "90% hvide, europæiske moskusdun/10% hvide, europæiske moskusfjer",
+    "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+    "quality": "GOLD",
+    "rating": 4.7,
+    "variants": [
+      {
+        "id": "4025250",
+        "sku": "FD-ANEMONE-135x200-SVAL",
+        "length": 200,
+        "width": 135,
+        "price": 1399,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4025251",
+        "sku": "FD-ANEMONE-135x220-SVAL",
+        "length": 220,
+        "width": 135,
+        "price": 1599,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4025350",
+        "sku": "FD-ANEMONE-135x200-VARM",
+        "length": 200,
+        "width": 135,
+        "price": 1999,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      },
+      {
+        "id": "4025351",
+        "sku": "FD-ANEMONE-135x220-VARM",
+        "length": 220,
+        "width": 135,
+        "price": 2299,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      },
+      {
+        "id": "4025385",
+        "sku": "FD-ANEMONE-200x220-VARM",
+        "length": 220,
+        "width": 200,
+        "price": 2999,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      }
+    ],
+    "years_warranty": 10
+  },
+  {
+    "id": "4001000",
+    "sku": "FD-TUSINDFRYD",
+    "slug": "flora-danica-tusindfryd",
+
+    "brand": "Flora Danica",
+    "name": "Tusindfryd",
+    "images": ["/tusindfryd.jpeg"],
+
+    "allergyFriendly": true,
+    "certifications": ["STANDARD 100 by OEKO-TEX"],
+    "fillings": "100% hvide, europæiske moskusdun",
+    "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+    "quality": "GOLD",
+    "rating": 4.7,
+    "variants": [
+      {
+        "id": "4011650",
+        "sku": "FD-TUSINDFRYD-135x200-SVAL",
+        "length": 200,
+        "width": 135,
+        "price": 2499,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4011651",
+        "sku": "FD-TUSINDFRYD-135x220-SVAL",
+        "length": 220,
+        "width": 135,
+        "price": 2799,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4011685",
+        "sku": "FD-TUSINDFRYD-200x220-SVAL",
+        "length": 220,
+        "width": 200,
+        "price": 2499,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4021550",
+        "sku": "FD-TUSINDFRYD-135x200-VARM",
+        "length": 200,
+        "width": 135,
+        "price": 3699,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      },
+      {
+        "id": "4021551",
+        "sku": "FD-TUSINDFRYD-135x220-VARM",
+        "length": 220,
+        "width": 135,
+        "price": 3999,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      },
+      {
+        "id": "4021585",
+        "sku": "FD-TUSINDFRYD-200x220-VARM",
+        "length": 220,
+        "width": 200,
+        "price": 3699,
+        "currency": "DKK",
+        "type": "Dyne",
+        "insulation": "Varm"
+      },
+      {
+        "id": "4001650",
+        "sku": "FD-TUSINDFRYD-135x200-EKSTRA-VARM",
+        "length": 200,
+        "width": 135,
+        "price": 3999,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      },
+      {
+        "id": "4001651",
+        "sku": "FD-TUSINDFRYD-135x220-EKSTRA-VARM",
+        "length": 220,
+        "width": 135,
+        "price": 4499,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      },
+      {
+        "id": "4001689",
+        "sku": "FD-TUSINDFRYD-220x240-EKSTRA-VARM",
+        "length": 240,
+        "width": 220,
+        "price": 4499,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      }
+    ],
+    "years_warranty": 10
+  },
+  {
+    "id": "4063000",
+    "sku": "FD-ERANTIS",
+    "slug": "flora-danica-erantis",
+
+    "brand": "Flora Danica",
+    "name": "Erantis",
+    "images": ["/erantis.jpeg"],
+
+    "allergyFriendly": true,
+    "certifications": ["STANDARD 100 by OEKO-TEX"],
+    "fillings": "90% hvide, europæiske moskusdun/10% hvide, europæiske moskusfjer",
+    "properties": [
+      "Kølende og temperaturregulerende stof på den ene side",
+      "DOWNPASS",
+      "Downafresh",
+      "NOMITE"
+    ],
+    "quality": "GOLD",
+    "rating": 0,
+    "variants": [
+      {
+        "id": "4063450",
+        "sku": "FD-ERANTIS-135x200-SVAL",
+        "length": 200,
+        "width": 135,
+        "price": 2499,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      },
+      {
+        "id": "4063551",
+        "sku": "FD-ERANTIS-135x220-SVAL",
+        "length": 220,
+        "width": 135,
+        "price": 2999,
+        "currency": "DKK",
+        "type": "Sommerdyne",
+        "insulation": "Sval"
+      }
+    ],
+    "years_warranty": 10
+  },
+  {
+    "id": "4001700",
+    "sku": "FD-ORKIDE",
+    "slug": "flora-danica-orkide",
+
+    "brand": "Flora Danica",
+    "name": "Orkide",
+    "images": ["/orkide.jpeg"],
+
+    "allergyFriendly": true,
+    "certifications": ["STANDARD 100 by OEKO-TEX"],
+    "fillings": "100% islandske edderdun",
+    "properties": ["Allergivenlig", "Downafresh", "NOMITE"],
+    "quality": "GOLD",
+    "rating": 4.5,
+    "variants": [
+      {
+        "id": "4001750",
+        "sku": "FD-ORKIDE-135x200-EKSTRA-VARM",
+        "length": 200,
+        "width": 135,
+        "price": 24999,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      },
+      {
+        "id": "4001751",
+        "sku": "FD-ORKIDE-135x220-EKSTRA-VARM",
+        "length": 220,
+        "width": 135,
+        "price": 27999,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      },
+      {
+        "id": "4001785",
+        "sku": "FD-ORKIDE-200x220-EKSTRA-VARM",
+        "length": 220,
+        "width": 200,
+        "price": 49999,
+        "currency": "DKK",
+        "type": "Vinterdyne",
+        "insulation": "Ekstra varm"
+      }
+    ],
+    "years_warranty": 15
+  }
+]
