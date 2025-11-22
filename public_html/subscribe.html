@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subscribe to Newsletter</title>
+    <script src="https://kit.fontawesome.com/1c18df3eaf.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/index.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="logo-group">
+        <a href="index.html" aria-label="Go to homepage">
+            <img class="logo" src="img/logo.png" alt="GBV in SA logo">
+        </a>
+        <a href="index.html"><span class="company-name">GBV in SA</span></a>
+    </div>
+    <!--navigation-->
+    <nav aria-label="Main navigation" id="main-nav">
+        <ul>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#">Our Work</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Resources</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!--burgermenu-->
+    <button id="bars" aria-expanded="false" aria-controls="main-nav" aria-label="Main menu">
+        <i class="fa-solid fa-bars" aria-hidden="true"></i>
+    </button>
+
+    <div class="search-icon-container">
+        <a href="index.html" aria-label="Search site">
+            <img src="img/search-icon.png" alt="" aria-hidden="true" class="search-icon-img">
+        </a>
+      </div>
+  </header> 
+
+   <!--form-->  
+   <main>
+   <form class="newsletter-form">
+    <h1>Subscribe to our newsletter to stay updated on GBV in SA</h1>
+  
+    <div class="form-group">
+      <label for="firstName">First Name:</label>
+      <input type="text" id="firstName" name="firstName" required>
+    </div>
+  
+    <div class="form-group">
+      <label for="lastName">Last Name:</label>
+      <input type="text" id="lastName" name="lastName" required>
+    </div>
+  
+    <div class="form-group">
+      <label for="email">Email Address:</label>
+      <input type="email" id="email" name="email" required>
+    </div>
+  
+    <div class="form-group">
+      <label for="phone">Phone Number (optional):</label>
+      <input type="tel" id="phone" name="phone">
+    </div>
+  
+    <div class="form-group">
+        <label for="region">Region:</label>
+        <select id="region" name="region" required>
+          <option value="" selected disabled>Select your region</option>
+          <option value="1">Eastern Cape</option>
+          <option value="2">Free State</option>
+          <option value="3">Gauteng</option>
+          <option value="4">KwaZulu-Natal</option>
+          <option value="5">Limpopo</option>
+          <option value="6">Mpumalanga</option>
+          <option value="7">Northern Cape</option>
+          <option value="8">North West</option>
+          <option value="9">Western Cape</option>
+        </select>
+      </div>
+
+    <div class="form-group">
+      <label>Preferred Contact Method:</label>
+      <div class="radio-group">
+        <label>
+            <input type="radio" id="contactEmail" name="contactMethod" value="email" checked>
+            Email
+        </label>
+        
+        <label>
+        <input type="radio" id="contactSMS" name="contactMethod" value="sms">
+        SMS</label>
+      </div>
+    </div>
+  
+    <div class="form-group">
+      <label>Newsletter Preferences:</label>
+      <div class="checkbox-group">
+       <label>
+       <input type="checkbox" name="preferences" value="news" checked>
+        News & Updates
+    </label>
+        
+    <label>  
+    <input type="checkbox" name="preferences" value="events">
+        Events & Workshops
+    </label>
+        
+    <label>
+        <input type="checkbox" name="preferences" value="volunteer">
+        Volunteer Opportunities
+    </label>
+        
+    <label>
+        <input type="checkbox" name="preferences" value="resources">
+        Resources & Support
+    </label>
+      </div>
+    </div>
+  
+    <div class="form-group">
+      <label for="comments">Which GBV-related topics would you like us to cover? (optional):</label>
+      <textarea id="comments" name="comments" rows="3"></textarea>
+    </div>
+  
+    <div class="form-group">
+        <button type="submit" class="btn">Subscribe to Newsletter</button>
+    </div>
+  </form>
+</main>
+
+<div class="contact-info">
+    <p class="contact-text">
+      <strong class="contact-heading">Contact:</strong>
+      Do you have questions or wish to learn more, write <a href="mailto:therese-paulsen@live.dk">therese-paulsen@live.dk</a> or message <a href="tel:+27827753236">+27 82 775 3236</a>.
+    </p>
+  </div>
+
+<footer>
+    <ul class="footer-icons" aria-label="Footer navigation">
+        <li>
+            <a href="subscribe.html">
+                <img src="img/newsletter.png" alt="" aria-hidden="true">
+                <span>Newsletter</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/contact.png" alt="" aria-hidden="true">
+                <span>Contact</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/instagram.png" alt="" aria-hidden="true">
+                <span>Instagram</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/resources.png" alt="" aria-hidden="true">
+                <span>Resources</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/get-involved.png" alt="" aria-hidden="true">
+                <span>Get involved</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/donate.png" alt="" aria-hidden="true">
+                <span>Donate</span>
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                <img src="img/help.png" alt="" aria-hidden="true">
+                <span>Help</span>
+            </a>
+        </li>
+    </ul>
+</footer>
+</body>
+</html>
